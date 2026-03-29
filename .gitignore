@@ -1,0 +1,15 @@
+# Python specifics
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database (Keep your vectors local)
+chroma_db/
+
+# MacOS specifics
+.DS_Store
+
+# User data
+*.pdf
